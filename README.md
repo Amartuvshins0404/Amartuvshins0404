@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Amartuvshin%20Surenjav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20Student%20%7C%20AI%20Agentic%20Workflow%20Engineer&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Amartuvshin%20Surenjav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20AI%20Agentic%20Workflow%20Tinkerer&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+scalable+systems+with+modern+technologies;Exploring+the+intersection+of+AI+%26+Cybersecurity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Security+engineer+by+day%2C+full-stack+builder+by+night;Shipping+side-products+from+Ulaanbaatar+%E2%80%94+flint.mn%2C+voices.mn%2C+piano.mn" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-amaraa.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://amaraa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amartuvshin.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://amartuvshin.com)
 [![X](https://img.shields.io/badge/@Amaraa2404-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amaraa2404)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Amaraa0404/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amartovision/)
@@ -28,15 +28,21 @@
 ```yaml
 name: Amartuvshin Surenjav
 location: Ulaanbaatar, Mongolia
-education: MUST - SICT
-roles:
-  - Software Engineer
-  - Cybersecurity Student
-  - AI Agentic Workflow Engineer
-currently:
-  learning: Advanced Cybersecurity & AI Agent Architectures
-  building: Full-stack SaaS & AI-powered applications
-  exploring: MCP Servers, Agentic Workflows, CTF Challenges
+role: Security Engineer @ erxes Mongolia LLC
+education: B.S. Cybersecurity — MUST-SICT (in progress)
+day_job:
+  - Application security on a source-available Experience OS
+  - Vulnerability triage & fix pipelines
+  - Features across an Nx-powered GraphQL Federation monorepo
+off_the_clock:
+  shipped:
+    - flint.mn       # Mongolia-native dating platform
+    - voices.mn      # multi-tenant newsroom CMS
+    - devscomm.com   # Mongolian dev community hub
+    - piano.mn       # Mongolian Piano Association portal
+  exploring: MCP servers, agentic developer loops, custom Claude Code skills
+philosophy: Writing code since before the AI explosion — use AI to amplify
+            the fundamentals, not replace them.
 ```
 
 <br clear="right"/>
@@ -47,43 +53,45 @@ currently:
 
 <div align="center">
 
-#### Languages & Core
+#### Frontend
 
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-#### Frontend & UI
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-161618?style=flat-square&logo=shadcnui&logoColor=white)
 
-#### Backend & Database
+#### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL_Federation-E10098?style=flat-square&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_Server-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### Data
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO_%2F_S3-C72E49?style=flat-square&logo=minio&logoColor=white)
 
-#### AI & Integrations
+#### Security
 
-![Google AI](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application_Security-1f6feb?style=flat-square&logo=hackthebox&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_%2F_SAST-000000?style=flat-square&logo=owasp&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-2E2E2E?style=flat-square&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_%C2%B7_OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-#### Tools & Platforms
+#### AI & Agentic Workflows
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Custom_MCP_Servers-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
 
@@ -104,23 +112,67 @@ currently:
 
 ---
 
-## Featured Projects
+## Live Products
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Amartuvshins0404/SaaS-Architect">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amartuvshins0404&repo=SaaS-Architect&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Amartuvshins0404/nomadcart">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amartuvshins0404&repo=nomadcart&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Amartuvshins0404/zero-to-one">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amartuvshins0404&repo=zero-to-one&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-</a>
-<a href="https://github.com/Amartuvshins0404/whoisamaraa">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amartuvshins0404&repo=whoisamaraa&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-</a>
+### [Flint](https://flint.mn)
+**flint.mn** · Full Stack · Social
 
+Mongolia-native dating platform — swipe discovery, voice-note prompts, real-time messaging, and a fully customizable profile builder.
+
+`Next.js` · `TypeScript` · `PostgreSQL` · `WebSockets` · `Tailwind` · `Shadcn`
+
+</td>
+<td width="50%" valign="top">
+
+### [Voices](https://voices.mn)
+**voices.mn** · Full Stack · Newsroom
+
+Digital newsroom platform where political journalism meets citizen opinion. Multi-tenant CMS with nested admin roles and MinIO-backed media.
+
+`React` · `Vite` · `Express` · `PostgreSQL` · `MinIO` · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [DevsComm](https://devscomm.com)
+**devscomm.com** · Community Platform
+
+Community hub for the Mongolian developer scene — articles, event listings, hackathon registrations, and code challenges.
+
+`Next.js` · `TypeScript` · `Tailwind` · `PostgreSQL` · `Auth.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [Piano.mn](https://piano.mn)
+**piano.mn** · Association · CMS
+
+Official platform for the Mongolian Piano Association — competitions, member directory, courses, and news. Headless Strapi CMS.
+
+`Next.js` · `TypeScript` · `Strapi` · `Tailwind` · `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Personal Portfolio](https://amartuvshin.com)
+**amartuvshin.com** · Personal · Portfolio
+
+Next.js 16, React 19, Tailwind v4. Premium typography, subtle motion, static-first delivery — loads instantly and stays out of the way.
+
+`Next.js 16` · `React 19` · `Tailwind v4` · `Framer Motion` · `TypeScript`
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
