@@ -1,15 +1,16 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Amartuvshin%20Surenjav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20AI%20Agentic%20Workflow%20Tinkerer&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Amartuvshin%20Surenjav&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Independent%20Technology%20Advisor%20%7C%20Security%20%26%20Software%20Engineer&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Security+engineer+by+day%2C+full-stack+builder+by+night;Shipping+side-products+from+Ulaanbaatar+%E2%80%94+flint.mn%2C+voices.mn%2C+piano.mn" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Independent+technology+advice+on+the+client%27s+side;Diagnose+the+problem%2C+choose+the+system%2C+lead+delivery" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-amartuvshin.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://amartuvshin.com)
+[![Technology Advisory](https://img.shields.io/badge/Technology_Advisory-amartuvshin.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://amartuvshin.com)
+[![Engineering Portfolio](https://img.shields.io/badge/Engineering-portfolio.amartuvshin.com-161b22?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.amartuvshin.com)
 [![X](https://img.shields.io/badge/@Amaraa2404-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amaraa2404)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Amaraa0404/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amartovision/)
@@ -34,6 +35,10 @@ day_job:
   - Application security on a source-available Experience OS
   - Vulnerability triage & fix pipelines
   - Features across an Nx-powered GraphQL Federation monorepo
+independent_advisory:
+  - Diagnose operational problems before prescribing software
+  - Compare buy, configure, integrate and build options without vendor bias
+  - Review vendors, proposals, architecture, security and delivery risk
 off_the_clock:
   shipped:
     - flint.mn       # Mongolia-native dating platform
@@ -161,14 +166,24 @@ Official platform for the Mongolian Piano Association — competitions, member d
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### [Personal Portfolio](https://amartuvshin.com)
-**amartuvshin.com** · Personal · Portfolio
+### [Technology Advisory](https://amartuvshin.com)
+**amartuvshin.com** · Independent · Client-side
 
-Next.js 16, React 19, Tailwind v4. Premium typography, subtle motion, static-first delivery — loads instantly and stays out of the way.
+Independent technology consulting in Mongolia: diagnose business problems, compare buy-or-build options, select software vendors, and lead accountable delivery.
 
-`Next.js 16` · `React 19` · `Tailwind v4` · `Framer Motion` · `TypeScript`
+[`System Decision Sprint`](https://amartuvshin.com/en/services/system-decision-sprint) · [`Software Vendor Selection`](https://amartuvshin.com/en/services/software-vendor-selection) · [`Proposal Review`](https://amartuvshin.com/en/services/software-proposal-review)
+
+</td>
+<td width="50%" valign="top">
+
+### [Engineering Portfolio](https://portfolio.amartuvshin.com)
+**portfolio.amartuvshin.com** · Work · Case studies
+
+Selected software, AI workflow, security and product delivery work, with detailed production case studies.
+
+`Next.js` · `React` · `TypeScript` · `GraphQL` · `Security` · `AI`
 
 </td>
 </tr>
